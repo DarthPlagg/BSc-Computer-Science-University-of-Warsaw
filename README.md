@@ -1,8 +1,10 @@
 # 🎓 BSc Computer Science | University of Warsaw
-Repozytorium zawierające projekty, zadania i materiały zrealizowane podczas studiów informatycznych na **Uniwersytecie Warszawskim**.
+A collection of projects, assignments, and materials from my Computer Science studies at the **University of Warsaw**.
 
-## 📂 Struktura Projektów
+## 📂 Course Overview
 
-| Semestr | Przedmiot | Opis | Technologie |
+| Semester | Course | Description | Technologies |
 |:---:|:---|:---|:---|
-| 1 | **WDP** | Wstęp do Programowania – podstawy algorytmiki i języka C\C++. | `C\C++` |
+| 1 | **Introduction to Programming** | Fundamentals of algorithms and C\C++ programming. | `C\C++` |
+
+---
