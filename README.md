@@ -5,6 +5,6 @@ A collection of projects, assignments, and materials from my Computer Science st
 
 | Semester | Course | Description | Technologies |
 |:---:|:---|:---|:---|
-| 1 | **Introduction to Programming** | Fundamentals of algorithms and C\C++ programming. | `C\C++` |
+| 1 | **Introduction to Programming (wdp)** | Fundamentals of algorithms and C\C++ programming. | `C\C++` |
 
 ---
