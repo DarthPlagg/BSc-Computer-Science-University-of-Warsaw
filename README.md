@@ -1,7 +1,7 @@
-# 🎓 BSc Computer Science | University of Warsaw
+# BSc Computer Science | University of Warsaw
 A collection of projects, assignments, and materials from my Computer Science studies at the **University of Warsaw**.
 
-## 📂 Course Overview
+## Course Overview
 
 | Semester | Course | Description | Technologies |
 |:---:|:---|:---|:---|
